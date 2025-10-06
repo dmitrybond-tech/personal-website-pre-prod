@@ -1,0 +1,128 @@
+{
+  "bbc.jpeg": {
+    "source": "https://simpleicons.org/?q=BBC",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:11.229Z",
+    "method": "simple-icons",
+    "bytes": 397
+  },
+  "ycombinator.jpeg": {
+    "source": "https://simpleicons.org/?q=Y%20Combinator",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:11.315Z",
+    "method": "simple-icons",
+    "bytes": 397
+  },
+  "redbull.png": {
+    "source": "https://en.wikipedia.org/wiki/Red%20Bull%20Media%20House",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T10:57:17.983Z",
+    "method": "wikipedia",
+    "bytes": 68188
+  },
+  "shantaram.jpg": {
+    "source": "https://openlibrary.org/search?q=Shantaram",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T10:59:42.405Z",
+    "method": "openlibrary",
+    "bytes": 6219
+  },
+  "pulp-fiction.jpeg": {
+    "source": "https://en.wikipedia.org/wiki/Pulp%20Fiction",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T10:59:51.844Z",
+    "method": "wikipedia",
+    "bytes": 8333
+  },
+  "spirited-away.jpeg": {
+    "source": "https://en.wikipedia.org/wiki/Spirited%20Away",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T10:59:52.415Z",
+    "method": "wikipedia",
+    "bytes": 7357
+  },
+  "joerogan.jpg": {
+    "source": "https://en.wikipedia.org/wiki/Joe%20Rogan",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:10.748Z",
+    "method": "wikipedia",
+    "bytes": 4852
+  },
+  "sethrogen.jpg": {
+    "source": "https://en.wikipedia.org/wiki/Seth%20Rogen",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:10.995Z",
+    "method": "wikipedia",
+    "bytes": 3715
+  },
+  "markmanson.jpg": {
+    "source": "https://en.wikipedia.org/wiki/Mark%20Manson",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:00:52.211Z",
+    "method": "wikipedia",
+    "bytes": 5304
+  },
+  "travisrice.jpg": {
+    "source": "https://en.wikipedia.org/wiki/Travis%20Rice",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:00:53.389Z",
+    "method": "wikipedia",
+    "bytes": 5269
+  },
+  "andrewberman.jpg": {
+    "source": "https://en.wikipedia.org/wiki/Andrew%20Huberman",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:00:53.880Z",
+    "method": "wikipedia",
+    "bytes": 5058
+  },
+  "artsy.png": {
+    "source": "https://en.wikipedia.org/wiki/Artsy",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:00:54.850Z",
+    "method": "wikipedia",
+    "bytes": 6395
+  },
+  "inked.jpeg": {
+    "source": "https://en.wikipedia.org/wiki/Inked%20Magazine",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:00:56.313Z",
+    "method": "wikipedia",
+    "bytes": 6727
+  },
+  "subtle-art.jpeg": {
+    "source": "https://openlibrary.org/search?q=The%20Subtle%20Art%20of%20Not%20Giving%20a%20Fuck",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:14.965Z",
+    "method": "openlibrary",
+    "bytes": 6569
+  },
+  "idiot.jpeg": {
+    "source": "https://openlibrary.org/search?q=Idiot",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:16.924Z",
+    "method": "openlibrary",
+    "bytes": 2351
+  },
+  "crime-punishment.jpeg": {
+    "source": "https://openlibrary.org/search?q=Crime%20and%20Punishment",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:19.106Z",
+    "method": "openlibrary",
+    "bytes": 5456
+  },
+  "big-lebowski.jpeg": {
+    "source": "https://en.wikipedia.org/wiki/The%20Big%20Lebowski",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:20.109Z",
+    "method": "wikipedia",
+    "bytes": 6020
+  },
+  "fight-club.jpeg": {
+    "source": "https://en.wikipedia.org/wiki/Fight%20Club",
+    "license": "Unknown",
+    "fetchedAt": "2025-10-06T11:01:20.757Z",
+    "method": "wikipedia",
+    "bytes": 5794
+  }
+}
